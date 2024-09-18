@@ -41,7 +41,6 @@ INSERT INTO `animal` (`id`, `name`, `category`) VALUES
 (null, 'Giraffe', 'Herbivore'),
 (null, 'Gorille', 'Herbivore'),
 (null, 'Coq', 'Omnivore'),
-(null, 'Coq', 'Omnivore'),
 (null, 'Dinosaure', 'Carnivore'),
 (null, 'Crocodile', 'Carnivore'),
 (null, 'Perroquet', 'Herbivore');
